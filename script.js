@@ -1,6 +1,5 @@
 const getData = async () => {
     const didnt_submit = []
-    const sub = []
 
     // get all students
     const all_student_req = await fetch("./allStudents.txt")

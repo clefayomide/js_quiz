@@ -1,6 +1,7 @@
 ⛵ The Story
 
 2, 000 students are expected to submit their assignment using a Google Form, but only 1, 858 responses were received from the Google Form.
+
 ⚒ The Task
 
 As a JavaScript developer, you are required to write a JavaScript program that will do the following:
